@@ -8,5 +8,5 @@
 **This is a graphical representation of the phenomenon**
 
 ### Further improvements
-[ ] Make it applicable for asymetric tiles and multiple socket types ex: ('AAA','ABB').
-[ ] Introduce backtracking.
+    - [ ] Make it applicable for asymetric tiles and multiple socket types ex: ('AAA','ABB').
+    - [ ] Introduce backtracking.
